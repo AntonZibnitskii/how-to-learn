@@ -3,8 +3,9 @@
 @import url(./__link/feynman__link.css);
 
 .feynman {
+  padding-top: 100px;
   position: relative;
-  height: 790px;
+  min-height: 790px;
   background-size: 867px 637px;
   background: #F2F2F2 url(../../images/feynman.png) no-repeat bottom left;
 }
