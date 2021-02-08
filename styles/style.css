@@ -232,7 +232,7 @@
   position: relative;
   min-height: 790px;
   background-size: 867px 637px;
-  background: #F2F2F2 url(../../images/feynman.png) no-repeat bottom left;
+  background: #F2F2F2 url(../images/feynman.png) no-repeat bottom left;
 }
 
 .feynman__link {
@@ -276,7 +276,7 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(../../../images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   position: absolute;
   top: 0;
   right: -210px;
