@@ -9,6 +9,3 @@
   transition: opacity .3s ease;
 }
 
-.resources__logo-link:hover .resources__logo{
-  opacity: .4;
-}

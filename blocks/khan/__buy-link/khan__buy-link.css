@@ -6,7 +6,7 @@
   text-decoration: none;
   color: #2F80ED;
   z-index: 2;
-  align-items: flex-start;
+  align-self: flex-start;
   -webkit-transition: opacity .3s ease;
   -o-transition: opacity .3s ease;
   transition: opacity .3s ease;
