@@ -1,3 +1,9 @@
+.resources__logo-link {
+  -webkit-transition: opacity .3s ease;
+  -o-transition: opacity .3s ease;
+  transition: opacity .3s ease;
+}
+
 .resources__logo-link:hover {
   opacity: .4;
 }
